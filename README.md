@@ -45,7 +45,7 @@ Clone the LiveLink-Extractor repository to your Linux system.
 
 3.Check live links
 
-python3 <python_file_name>.py -f example.txt
+python3 livesite.py -f example.txt
 
 This command tests all the collected subdomain links and shows which sites are live on the target domain.
 
