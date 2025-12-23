@@ -39,8 +39,7 @@ This command collects all subdomains of the target domain and saves them to a fi
 
 2.Clone the LiveLink-Extractor tool
 
-git clone <repository-url>
-
+git clone [https://github.com/MuthuKumaran-mk/livelink-extracter]
 Clone the LiveLink-Extractor repository to your Linux system.
 
 
